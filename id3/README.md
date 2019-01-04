@@ -29,7 +29,7 @@ You have to specify:
 
 ### Results
 
-![results](https://github.com/dpakpdl/NeuralNetworks/id3/resources/results.png "Tennis & Credit Assesment Examples")
+![results](https://github.com/dpakpdl/NeuralNetworks/blob/master/id3/resources/results.png)
 
 ## TODO
 - represent result in tree structure
