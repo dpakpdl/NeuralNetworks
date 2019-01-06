@@ -33,7 +33,7 @@ def main():
     all_row = [r for r in fs]
     rows = all_row[1:]
     # weights = [round(random.uniform(0.1, 0.4), 1) for i in range(0, 2, 1)]
-    weights = [0.2]
+    weights = [0.2, 0.3]
     learning_rate = 0.1
     bias = 0.1
     print('wt1  wt2  bias  y_in')

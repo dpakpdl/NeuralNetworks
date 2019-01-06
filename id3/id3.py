@@ -143,7 +143,7 @@ def id3(data, uniqs, remaining_atts, target_attribute):
 
     n = len(data['rows'])
     ent = entropy(n, labels)
-
+    log.warning("Entropy for %s is %s" %(target_attribute, ent))
     max_info_gain = None
     max_info_gain_att = None
     max_info_gain_partitions = None
@@ -151,6 +151,7 @@ def id3(data, uniqs, remaining_atts, target_attribute):
     for remaining_att in remaining_atts:
         avg_ent, partitions = avg_entropy_w_partitions(data, remaining_att, target_attribute)
         info_gain = ent - avg_ent
+        log.warning("Info Gain for %s is %s" %(remaining_att, info_gain))
         if max_info_gain is None or info_gain > max_info_gain:
             max_info_gain = info_gain
             max_info_gain_att = remaining_att
@@ -162,7 +163,8 @@ def id3(data, uniqs, remaining_atts, target_attribute):
 
     node['attribute'] = max_info_gain_att
     node['nodes'] = {}
-
+    log.warning("Max Info Gain is %s for %s" % (max_info_gain, max_info_gain_att))
+    print('-'*100)
     remaining_atts_for_subtrees = set(remaining_atts)
     remaining_atts_for_subtrees.discard(max_info_gain_att)
 
@@ -209,7 +211,7 @@ def pretty_print_tree(root):
 def main():
     argv = sys.argv
     print("Command line args are {}: ".format(argv))
-
+    print("-"*100)
     config = load_config(argv[1])
 
     data = load_csv_to_header_data(config['data_file'])
@@ -221,7 +223,6 @@ def main():
 
     uniqs = get_uniq_values(data)
     root = id3(data, uniqs, remaining_attributes, target_attribute)
-    log.warning(root)
     pretty_print_tree(root)
 
 
@@ -262,4 +263,4 @@ if __name__ == "__main__":
 #                     }
 #             }
 #     }
-}
+# }
