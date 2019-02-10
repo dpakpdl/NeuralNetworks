@@ -1,0 +1,10 @@
+
+7python:S125Î"Remove this commented out code.(–æ–•
+Ypython:PrintStatementUsageÒ"-Replace print statement by built-in function.(Ãš‹žûÿÿÿÿ
+<python:S125·"Remove this commented out code.(Œ®«Šýÿÿÿÿ
+Ypython:PrintStatementUsageÐ"-Replace print statement by built-in function.(Ãš‹žûÿÿÿÿ
+Kpython:S1481²"-Remove the unused local variable "sum_error".(®ÝÆÝüÿÿÿÿ
+rpython:S3776"TRefactor this function to reduce its Cognitive Complexity from 16 to the 15 allowed.(ä¸ËÓüÿÿÿÿ
+Fpython:S1481¸"-Remove the unused local variable "sum_error".(¼‚©ô
+Ypython:PrintStatementUsageÍ"-Replace print statement by built-in function.(¬Ñåðüÿÿÿÿ
+Ypython:PrintStatementUsageÌ"-Replace print statement by built-in function.(¥ÊôŽüÿÿÿÿ

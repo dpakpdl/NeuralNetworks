@@ -1,0 +1,37 @@
+
+{python:S117`"XRename this local variable "inputsT" to match the regular expression ^[_a-z][a-z0-9_]*$.(†‹–…üÿÿÿÿ8šÂş™‹-
+_python:PrintStatementUsageW"-Replace print statement by built-in function.(ìÕÕ§ıÿÿÿÿ8ÙæÔŸ‹-
+jpython:S116"LRename this field "Onum" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÅóŸÑ8šÂş™‹-
+opython:S116"QRename this field "weightsIH" to match the regular expression ^[_a-z][_a-z0-9]*$.(ŠÙ»î8šÂş™‹-
+Zpython:PrintStatementUsagee"-Replace print statement by built-in function.(Ù­ÉÁ8ãëÍ ‹-
+Zpython:PrintStatementUsagen"-Replace print statement by built-in function.(öÊ÷©8‰æˆš‹-
+xpython:S117F"[Rename this local variable "gradientsO" to match the regular expression ^[_a-z][a-z0-9_]*$.(çÃŸ\8šÂş™‹-
+spython:S117"PRename this parameter "Inum" to match the regular expression ^[_a-z][a-z0-9_]*$.(“âÔˆøÿÿÿÿ8šÂş™‹-
+python:S117B"\Rename this local variable "gradientsO_" to match the regular expression ^[_a-z][a-z0-9_]*$.(òİÅúÿÿÿÿ8šÂş™‹-
+tpython:S116"QRename this field "weightsHO" to match the regular expression ^[_a-z][_a-z0-9]*$.(üÊı€ûÿÿÿÿ8šÂş™‹-
+{python:S117H"XRename this local variable "hiddenT" to match the regular expression ^[_a-z][a-z0-9_]*$.(ƒİ÷Ğıÿÿÿÿ8šÂş™‹-
+Zpython:PrintStatementUsagep"-Replace print statement by built-in function.(’—¤8‰æˆš‹-
+kpython:S116"MRename this field "biasO" to match the regular expression ^[_a-z][_a-z0-9]*$.(æ¡åô8šÂş™‹-
+ypython:S117Y"[Rename this local variable "gradientsH" to match the regular expression ^[_a-z][a-z0-9_]*$.(áëŒÕ8šÂş™‹-
+vpython:S117T"XRename this local variable "errorsH" to match the regular expression ^[_a-z][a-z0-9_]*$.(İï‡8šÂş™‹-
+~python:S117a"`Rename this local variable "weightsIHDeltas" to match the regular expression ^[_a-z][a-z0-9_]*$.(œò·ó8šÂş™‹-
+jpython:S116"LRename this field "Hnum" to match the regular expression ^[_a-z][_a-z0-9]*$.(ï¡©8šÂş™‹-
+Zpython:PrintStatementUsageJ"-Replace print statement by built-in function.(µ“ûÖ8Õ´°Ÿ‹-
+_python:PrintStatementUsageb"-Replace print statement by built-in function.(âªºÈøÿÿÿÿ8ûáÕŸ‹-
+>python:S125‡"Remove this commented out code.(¥„ò–8£´£š‹-
+vpython:S117="XRename this local variable "errorsO" to match the regular expression ^[_a-z][a-z0-9_]*$.(Àª‹Ñ8šÂş™‹-
+Zpython:PrintStatementUsage\"-Replace print statement by built-in function.(¼™ùÂ8å­ÕŸ‹-
+upython:S100%"RRename method "feedForward" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(µ‹¼Üùÿÿÿÿ8šÂş™‹-
+opython:S116"LRename this field "Inum" to match the regular expression ^[_a-z][_a-z0-9]*$.(ÏÔ¯ùÿÿÿÿ8šÂş™‹-
+_python:PrintStatementUsageE"-Replace print statement by built-in function.(â‰Úªúÿÿÿÿ8Óƒ®Ÿ‹-
+_python:PrintStatementUsage>"-Replace print statement by built-in function.(È¼â¹ûÿÿÿÿ8ª §Ÿ‹-
+_python:PrintStatementUsage;"-Replace print statement by built-in function.(ï¦ÊĞüÿÿÿÿ8°¢Ÿ‹-
+_python:PrintStatementUsageo"-Replace print statement by built-in function.(¤¹°ÿÿÿÿÿ8Ã»Šš‹-
+Zpython:PrintStatementUsageZ"-Replace print statement by built-in function.(øÑÅ8ä‘ ‹-
+}python:S117I"`Rename this local variable "weightsHODeltas" to match the regular expression ^[_a-z][a-z0-9_]*$.(ãŞç28šÂş™‹-
+_python:PrintStatementUsageq"-Replace print statement by built-in function.(ÊÉã‚ıÿÿÿÿ8Ã»Šš‹-
+spython:S117"PRename this parameter "Onum" to match the regular expression ^[_a-z][a-z0-9_]*$.(“âÔˆøÿÿÿÿ8šÂş™‹-
+_python:PrintStatementUsage7"-Replace print statement by built-in function.(Æ‚¶äÿÿÿÿÿ8®ÓŸš‹-
+Zpython:PrintStatementUsageP"-Replace print statement by built-in function.(¤½¸¤8¹šÒŸ‹-
+spython:S117"PRename this parameter "Hnum" to match the regular expression ^[_a-z][a-z0-9_]*$.(“âÔˆøÿÿÿÿ8šÂş™‹-
+ppython:S116"MRename this field "biasH" to match the regular expression ^[_a-z][_a-z0-9]*$.(„”Úˆøÿÿÿÿ8šÂş™‹-

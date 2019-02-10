@@ -1,0 +1,6 @@
+
+Xpython:PrintStatementUsage8"-Replace print statement by built-in function.(ƒòò„üÿÿÿÿ
+Xpython:PrintStatementUsager"-Replace print statement by built-in function.(Å»ªÌøÿÿÿÿ
+6python:S125^"Remove this commented out code.(½âù‚
+6python:S125@"Remove this commented out code.(•í»
+cpython:S117:"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(…ÀÒx

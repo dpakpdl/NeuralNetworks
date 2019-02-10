@@ -216,8 +216,8 @@ normalize_dataset(dataset, minmax)
 # evaluate algorithm
 n_folds = 3
 l_rate = 0.3
-n_epoch = 1
-n_hidden = 1
+n_epoch = 125
+n_hidden = 2
 # print dataset
 scores = evaluate_algorithm(dataset, back_propagation, n_folds, l_rate, n_epoch, n_hidden)
 print('Scores: %s' % scores)

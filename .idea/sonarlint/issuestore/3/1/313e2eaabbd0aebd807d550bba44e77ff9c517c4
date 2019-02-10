@@ -1,0 +1,26 @@
+
+Zpython:PrintStatementUsage."-Replace print statement by built-in function.(õ´åÓ8¯’Ç˜‹-
+Zpython:PrintStatementUsage?"-Replace print statement by built-in function.(ØµŞ8§›Ş˜‹-
+;python:S125Z"Remove this commented out code.(şŞİùÿÿÿÿ
+_python:PrintStatementUsageQ"-Replace print statement by built-in function.(ôÌ•‘ÿÿÿÿÿ8ÍÄï˜‹-
+hpython:S116"QRename this field "inputSize" to match the regular expression ^[_a-z][_a-z0-9]*$.(Ğˆùş
+Bpython:S125+"Remove this commented out code.(ğ¾ùÿÿÿÿ8ú™¸˜‹-
+=python:S125&"Remove this commented out code.(æñç‘8´‚¸˜‹-
+npython:S116"RRename this field "hiddenSize" to match the regular expression ^[_a-z][_a-z0-9]*$.(İşéşÿÿÿÿ
+_python:PrintStatementUsage`"-Replace print statement by built-in function.(é…Åàúÿÿÿÿ8Ê–…—‹-
+Bpython:S125("Remove this commented out code.(¶¯œÿÿÿÿÿ8´‚¸˜‹-
+_python:PrintStatementUsageP"-Replace print statement by built-in function.(Á™íòıÿÿÿÿ8–°¡™‹-
+_python:PrintStatementUsagea"-Replace print statement by built-in function.(ÊáÕ¿şÿÿÿÿ8Óñƒ—‹-
+ipython:S117""MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(’Õôœÿÿÿÿÿ
+;python:S125X"Remove this commented out code.(§Åíªşÿÿÿÿ
+Spython:PrintStatementUsage"-Replace print statement by built-in function.(ì®ÈÜ
+hpython:S116"RRename this field "outputSize" to match the regular expression ^[_a-z][_a-z0-9]*$.(´×œ(
+dpython:S117R"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(´ÄèÍ
+Bpython:S125"Remove this commented out code.(šè˜„ÿÿÿÿÿ8Ä”‚˜‹-
+Zpython:PrintStatementUsage"-Replace print statement by built-in function.(Ê¶—¯8ãšà—‹-
+opython:S1007"SRename method "sigmoidPrime" to match the regular expression ^[a-z_][a-z0-9_]{2,}$.(’¨ô¸üÿÿÿÿ
+Xpython:PrintStatementUsage "-Replace print statement by built-in function.(ûÈ°Èÿÿÿÿÿ
+_python:PrintStatementUsage="-Replace print statement by built-in function.(êÍñëüÿÿÿÿ8õşİ˜‹-
+Xpython:PrintStatementUsageb"-Replace print statement by built-in function.(„òİıúÿÿÿÿ
+Bpython:S125H"Remove this commented out code.(‘£©ìşÿÿÿÿ8¾Ô·˜‹-
+dpython:S117;"MRename this parameter "X" to match the regular expression ^[_a-z][a-z0-9_]*$.(³«Ñ°
